@@ -1,0 +1,6 @@
+#Fri Nov 10 09:32:13 PST 2017
+-w\ =true
+_private_resource_path=file\:/C\:/A1MyProjects/CIT/AWSFiles/installFiles/dsWorkspaces/ws10Nov2017/project1
+CobolCompilerBuildOutput=./object
+CobolProjectSettings=true
+CobolPostCleanScript=%COBOLITDIR%\\setenv_cobolit.bat
