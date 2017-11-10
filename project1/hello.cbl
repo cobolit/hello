@@ -1,7 +1,7 @@
        IDENTIFICATION DIVISION.
        PROGRAM-ID.  hello.
       * adding a comment to hello.cbl 
-      * add additional comment
+      * add additional comment - plus more content
        ENVIRONMENT DIVISION.
        DATA DIVISION.
        WORKING-STORAGE SECTION.
