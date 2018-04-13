@@ -8,6 +8,6 @@
        77 ws-dummy PIC x.
        PROCEDURE DIVISION.
        main.
-           DISPLAY "hello world-v2.0" LINE 10 COL 10.
+           DISPLAY "hello world-v2.1" LINE 10 COL 10.
            ACCEPT ws-dummy LINE 10 COL 30.
            STOP RUN.
